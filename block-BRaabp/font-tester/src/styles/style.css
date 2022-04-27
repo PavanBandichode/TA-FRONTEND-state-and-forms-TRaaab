@@ -1,0 +1,107 @@
+.grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1fr;
+}
+.box {
+  border: 1px solid white;
+  margin: 1rem;
+  padding: 1rem;
+  height: 250px;
+  border-radius: 1rem;
+}
+@import url("https://fonts.googleapis.com/css2?family=Hurricane&family=Inspiration&family=Lato&family=Montserrat&family=Open+Sans&family=Oswald&family=Palette+Mosaic&family=Poppins&family=Red+Hat+Mono&family=Roboto+Condensed&family=Roboto:wght@300&family=Source+Sans+Pro&display=swap");
+
+.Hurricane {
+  font-family: "Hurricane", cursive;
+}
+
+.Inspiration {
+  font-family: "Inspiration", cursive;
+}
+
+.Lato {
+  font-family: "Lato", sans-serif;
+}
+
+.Montserrat {
+  font-family: "Montserrat", sans-serif;
+}
+
+.Opensans {
+  font-family: "Open Sans", sans-serif;
+}
+
+.Oswald {
+  font-family: "Oswald", sans-serif;
+}
+
+.Palette {
+  font-family: "Palette Mosaic", cursive;
+}
+
+.Poppins {
+  font-family: "Poppins", sans-serif;
+}
+
+.Red {
+  font-family: "Red Hat Mono", monospace;
+}
+
+.Roboto {
+  font-family: "Roboto", sans-serif;
+}
+
+.Condensed {
+  font-family: "Roboto Condensed", sans-serif;
+}
+
+.Source {
+  font-family: "Source Sans Pro", sans-serif;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1fr;
+}
+
+h1 {
+  font-size: 3rem;
+  text-align: center;
+}
+
+h2 {
+  font-size: 1.5rem;
+  font-weight: 500;
+  margin-bottom: 1rem;
+}
+.header {
+  margin-top: 1.5rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+body {
+  line-height: 1.5;
+  background-color: rgb(43, 36, 36);
+  color: white;
+  letter-spacing: 4px;
+}
+input {
+  width: 250px;
+  padding: 0.5rem;
+  background-color: rgb(48, 29, 29);
+  color: white;
+  margin: 0 2rem;
+}
+.box {
+  border: 1px solid white;
+  margin: 1rem;
+  padding: 1rem;
+  height: 250px;
+  border-radius: 1rem;
+  box-shadow: 1px 4px 6px black;
+  background-color: rgb(48, 29, 29);
+  text-shadow: 0px 2px 4px white;
+}
