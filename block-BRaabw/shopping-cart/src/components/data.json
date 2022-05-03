@@ -11,7 +11,9 @@
       "price": 10.9,
       "sku": 12064273040195392,
       "style": "Black with custom print",
-      "title": "Cat Tee Black T-Shirt"
+      "title": "Cat Tee Black T-Shirt",
+      "large": "/static/products/8552515751438644_1.jpg",
+      "small": "/static/products/8552515751438644_2.jpg"
     },
     {
       "availableSizes": ["M"],
@@ -24,7 +26,9 @@
       "price": 29.45,
       "sku": 51498472915966370,
       "style": "Front print and paisley print",
-      "title": "Dark Thug Blue-Navy T-Shirt"
+      "title": "Dark Thug Blue-Navy T-Shirt",
+      "large": "/static/products/9197907543445676_1.jpg",
+      "small": "/static/products/9197907543445676_2.jpg"
     },
     {
       "availableSizes": ["X", "L", "XL"],
@@ -37,7 +41,9 @@
       "price": 9,
       "sku": 10686354557628304,
       "style": "Front tie dye print",
-      "title": "Sphynx Tie Dye Wine T-Shirt"
+      "title": "Sphynx Tie Dye Wine T-Shirt",
+      "large": "/static/products/101_1.jpg",
+      "small": "/static/products/101_2.jpg"
     },
     {
       "availableSizes": ["X", "L", "XL", "XXL"],
@@ -50,7 +56,9 @@
       "price": 14,
       "sku": 11033926921508488,
       "style": "Black T-Shirt with front print",
-      "title": "Skuul"
+      "title": "Skuul",
+      "large": "/static/products/5619496040738316_1.jpg",
+      "small": "/static/products/5619496040738316_2.jpg"
     },
     {
       "availableSizes": ["X", "L"],
@@ -63,7 +71,9 @@
       "price": 13.25,
       "sku": 39876704341265610,
       "style": "Wine",
-      "title": "Wine Skul T-Shirt"
+      "title": "Wine Skul T-Shirt",
+      "large": "/static/products/10547961582846888_1.jpg",
+      "small": "/static/products/10547961582846888_2.jpg"
     },
     {
       "availableSizes": ["X", "L", "XL", "XXL"],
@@ -76,7 +86,9 @@
       "price": 10.9,
       "sku": 8552515751438644,
       "style": "Branco com listras pretas",
-      "title": "Cat Tee Black T-Shirt"
+      "title": "Cat Tee Black T-Shirt",
+      "large": "/static/products/51498472915966370_1.jpg",
+      "small": "/static/products/51498472915966370_2.jpg"
     },
     {
       "availableSizes": ["X", "L", "XL", "XXL"],
@@ -89,7 +101,9 @@
       "price": 10.9,
       "sku": 18644119330491310,
       "style": "Preta com listras brancas",
-      "title": "Sphynx Tie Dye Grey T-Shirt"
+      "title": "Sphynx Tie Dye Grey T-Shirt",
+      "large": "/static/products/11600983276356164_1.jpg",
+      "small": "/static/products/11600983276356164_2.jpg"
     },
     {
       "availableSizes": ["X", "L"],
@@ -102,7 +116,9 @@
       "price": 14.9,
       "sku": 11854078013954528,
       "style": "Branco com listras pretas",
-      "title": "Danger Knife Grey"
+      "title": "Danger Knife Grey",
+      "large": "/static/products/6090484789343891_1.jpg",
+      "small": "/static/products/6090484789343891_2.jpg"
     },
     {
       "availableSizes": ["X", "L"],
@@ -115,7 +131,9 @@
       "price": 14.9,
       "sku": 876661122392077,
       "style": "Preto com listras brancas",
-      "title": "White DGK Script Tee"
+      "title": "White DGK Script Tee",
+      "large": "/static/products/876661122392077_1.jpg",
+      "small": "/static/products/876661122392077_2.jpg"
     },
     {
       "availableSizes": ["XL"],
@@ -128,7 +146,9 @@
       "price": 25.9,
       "sku": 9197907543445676,
       "style": "Branco com listras pretas",
-      "title": "Born On The Streets"
+      "title": "Born On The Streets",
+      "large": "/static/products/10686354557628304_1.jpg",
+      "small": "/static/products/10686354557628304_2.jpg"
     },
     {
       "availableSizes": ["X", "L", "XL"],
@@ -141,7 +161,9 @@
       "price": 10.9,
       "sku": 10547961582846888,
       "style": "Preto",
-      "title": "Tso 3D Short Sleeve T-Shirt A"
+      "title": "Tso 3D Short Sleeve T-Shirt A",
+      "large": "/static/products/100_1.jpg",
+      "small": "/static/products/100_2.jpg"
     },
     {
       "availableSizes": ["XL", "XXL"],
@@ -154,7 +176,9 @@
       "price": 49.9,
       "sku": 6090484789343891,
       "style": "Branco",
-      "title": "Man Tie Dye Cinza Grey T-Shirt"
+      "title": "Man Tie Dye Cinza Grey T-Shirt",
+      "large": "/static/products/10412368723880252_1.jpg",
+      "small": "/static/products/10412368723880252_2.jpg"
     },
     {
       "availableSizes": ["S"],
@@ -167,7 +191,9 @@
       "price": 22.5,
       "sku": 18532669286405344,
       "style": "Preto com listras brancas",
-      "title": "Crazy Monkey Black T-Shirt"
+      "title": "Crazy Monkey Black T-Shirt",
+      "large": "/static/products/18532669286405344_1.jpg",
+      "small": "/static/products/18532669286405344_2.jpg"
     },
     {
       "availableSizes": ["XL"],
@@ -180,7 +206,9 @@
       "price": 18.7,
       "sku": 5619496040738316,
       "style": "Azul escuro",
-      "title": "Tso 3D Black T-Shirt"
+      "title": "Tso 3D Black T-Shirt",
+      "large": "/static/products/27250082398145996_1.jpg",
+      "small": "/static/products/27250082398145996_2.jpg"
     },
     {
       "availableSizes": ["L", "XL"],
@@ -193,7 +221,9 @@
       "price": 134.9,
       "sku": 11600983276356164,
       "style": "",
-      "title": "Crazy Monkey Grey"
+      "title": "Crazy Monkey Grey",
+      "large": "/static/products/18644119330491310_1.jpg",
+      "small": "/static/products/18644119330491310_2.jpg"
     },
     {
       "availableSizes": ["L", "XL"],
@@ -206,7 +236,9 @@
       "price": 49,
       "sku": 27250082398145996,
       "style": "",
-      "title": "On The Streets Black T-Shirt"
+      "title": "On The Streets Black T-Shirt",
+      "large": "/static/products/11033926921508488_1.jpg",
+      "small": "/static/products/11033926921508488_2.jpg"
     }
   ]
 }
